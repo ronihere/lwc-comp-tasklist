@@ -1,0 +1,16 @@
+.dummyClass{color:black;}
+.container{
+   background-color: wheat;
+   padding: 16px;
+   max-height: 480px;
+   display: block;
+   overflow-y: scroll;
+}
+.time{
+   font-size: 4rem;
+   font-weight: 600;
+}
+.greeting{
+   font-size: 2rem;
+   font-weight: 400;
+}

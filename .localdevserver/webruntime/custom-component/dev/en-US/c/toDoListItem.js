@@ -1,0 +1,1 @@
+{"errors":[{"code":"\n\n  5 |     @api todoId;\n  6 |     @api \n> 7 | }\n    |  ^ [Error]\n\n1 problem","message":"Error during compilation: c:\\Users\\Roni Mondal\\VS-SF\\api-testing\\api\\force-app\\main\\default\\lwc\\toDoListItem\\toDoListItem.js:7:2: Parsing error: Decorators must be attached to a class element."}]}
